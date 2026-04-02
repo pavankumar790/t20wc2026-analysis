@@ -74,6 +74,13 @@ powerbi/
 - Certain players dominate specific match phases
 
 ---
+🧠 Advanced SQL Analysis
+
+- Calculated dynamic Required Run Rate (RRR) using ball-by-ball data and cumulative scoring logic
+- Derived bowler performance metrics (economy, strike rate, wickets) directly from raw dataset
+- Demonstrated ability to transform event-level data into analytical insights
+  
+---
 
 💡 Future Improvements
 
